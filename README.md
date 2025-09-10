@@ -8,13 +8,13 @@ You can view the interactive Streamlit application online [here](https://spotify
 ```
 Spotify-Top-Tracks-Insights-2023/
 │
-├── screenshots                            # Folder containing visualizations and charts
-├── README.md                              # Project documentation
-├── STREAMLIT_LOCAL_SETUP.md               # Guide for running Streamlit locally
-├── Spotify Top Tracks Insights 2023.ipynb # Main analysis notebook
-├── app.py                                 # Streamlit dashboard 
-├── requirements.txt                       # Python dependencies
-└── spotify-2023.csv                       # Dataset
+├── screenshots                 # Folder containing visualizations and charts
+├── README.md                   # Project documentation
+├── STREAMLIT_LOCAL_SETUP.md    # Guide for running Streamlit locally
+├── app.py                      # Streamlit dashboard 
+├── requirements.txt            # Python dependencies
+├── spotify-2023.csv            # Dataset
+└── spotify_insights_2023.ipynb # Main analysis notebook
 ```
 
 ## Tools
