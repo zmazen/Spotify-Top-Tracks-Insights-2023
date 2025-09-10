@@ -1,5 +1,9 @@
 # Spotify 2023 Data Analysis – Track Popularity & Audio Features
 
+## Live Streamlit App
+
+You can view the interactive Streamlit application online [here](https://spotify-top-tracks-insights-2023-8artgipqbqdrtawxunmero.streamlit.app/)
+
 ## Project Structure
 ```
 Spotify-Top-Tracks-Insights-2023/
