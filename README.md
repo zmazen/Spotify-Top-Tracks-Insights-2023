@@ -5,8 +5,8 @@
 Spotify-Top-Tracks-Insights-2023/
 │
 ├── screenshots                            # Folder containing visualizations and charts
-├── Spotify Top Tracks Insights 2023.ipynb # Main analysis notebook
 ├── README.md                              # Project documentation
+├── Spotify Top Tracks Insights 2023.ipynb # Main analysis notebook
 ├── app.py                                 # Streamlit dashboard 
 └── spotify-2023.csv                       # Dataset
 ```
