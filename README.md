@@ -8,7 +8,7 @@ Spotify-Top-Tracks-Insights-2023/
 ├── Spotify Top Tracks Insights 2023.ipynb # Main analysis notebook
 ├── README.md                              # Project documentation
 ├── app.py                                 # Streamlit dashboard 
-└── spotify-2023                           # Dataset
+└── spotify-2023.csv                       # Dataset
 ```
 
 ## Tools
